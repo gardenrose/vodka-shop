@@ -1,0 +1,1 @@
+db.obicna.insert({"obicna":['alc50', 'alc95']})

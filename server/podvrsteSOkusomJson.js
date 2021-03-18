@@ -1,0 +1,1 @@
+db.sOkusom.insert({"sOkusom":['limun', 'cimet', 'vanilija', 'mango', 'borovnica']})

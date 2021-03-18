@@ -1,0 +1,1 @@
+db.vrste.insert({"vrste" : ['obicna','sOkusom','organskaBiljna']})
